@@ -67,3 +67,6 @@ group :test do
 end
 
 gem "ostruct"
+gem "boostrap"
+gem "faker"
+gem "simple_form"

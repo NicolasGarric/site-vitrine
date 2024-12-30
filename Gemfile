@@ -67,6 +67,12 @@ group :test do
 end
 
 gem "ostruct"
-gem "boostrap"
 gem "faker"
-gem "simple_form"
+
+gem "bootstrap", "~> 5.2"
+gem "cloudinary"
+gem "devise"
+gem "autoprefixer-rails"
+gem "font-awesome-sass", "~> 6.1"
+gem "simple_form", github: "heartcombo/simple_form"
+gem "sassc-rails"
